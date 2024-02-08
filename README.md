@@ -31,7 +31,9 @@ https://plnkr.co/edit/HRPJKJmRBsCe6U8c?p=preview&preview
 Таблица может иметь множество ячеек. Используйте делегирование событий.
 https://plnkr.co/edit/t0rm9ggdMrmeZh9W?p=preview&preview 
 
+
 ![image](https://github.com/AP-Yroki/javascript_forms/assets/144231060/abb072dd-e579-47bb-9bdf-9e7c541f4f51)
+
 
 ![image](https://github.com/AP-Yroki/javascript_forms/assets/144231060/02da3852-2a4a-42ae-9423-add0127a71fa)
 
